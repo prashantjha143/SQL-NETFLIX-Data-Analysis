@@ -245,7 +245,7 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 
-- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/prashantjha_143/)
+- **Instagram**: (https://www.instagram.com/prashantjha_143/)
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/prashant-jha-681a912b4/)
 
 Thank you for your support, and I look forward to connecting with you!
